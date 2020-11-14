@@ -38,7 +38,7 @@ mrelief_mapping_new_ensembl_notrim.py
 SPEER_mapping_final_notrim.py
 groupsim_mapping_notrim.py
 ```
-Finally, I have also uploaded code written by Dr. Omae Wagih for the construction of kinase
+Finally, I have also uploaded code written by Dr. Omar Wagih for the construction of kinase
 PWMs from kinase substrate data
 
 ```
