@@ -685,7 +685,7 @@ for (i in 1:length(spec_aa)) {
   print(int_DF)
   
   
-# This code maps between the protein kinase domain sequence and the Pfam protein kinase domain
+# This code maps between the PKA full length sequence and the Pfam protein kinase domain
 
 col1 <- sort(ss_table[as.numeric(ss_table[,3]) %in% int_DF[[1]],1])
 col2 <- sort(as.numeric(int_DF[[1]])-1)
