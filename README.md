@@ -1,5 +1,5 @@
 # kinase_SDR
-Code and data for the kinase SDR paper (2020)
+Code and data for the kinase SDR paper (2021)
 
 The kinase PWMs and kinase sequence alignments are given in the following files:
 
